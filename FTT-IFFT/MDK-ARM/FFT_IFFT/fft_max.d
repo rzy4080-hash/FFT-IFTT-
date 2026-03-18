@@ -1,0 +1,12 @@
+fft_ifft\fft_max.o: ..\CODE\FFT_MAX.c
+fft_ifft\fft_max.o: ..\CODE\FFT_MAX.h
+fft_ifft\fft_max.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+fft_ifft\fft_max.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+fft_ifft\fft_max.o: D:\STM32keil5\ARM\ARMCC\Bin\..\include\stdint.h
+fft_ifft\fft_max.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+fft_ifft\fft_max.o: D:\STM32keil5\ARM\ARMCC\Bin\..\include\string.h
+fft_ifft\fft_max.o: D:\STM32keil5\ARM\ARMCC\Bin\..\include\math.h
+fft_ifft\fft_max.o: D:\STM32keil5\ARM\ARMCC\Bin\..\include\float.h
+fft_ifft\fft_max.o: D:\STM32keil5\ARM\ARMCC\Bin\..\include\limits.h
+fft_ifft\fft_max.o: D:\STM32keil5\ARM\ARMCC\Bin\..\include\stdio.h
+fft_ifft\fft_max.o: D:\STM32keil5\ARM\ARMCC\Bin\..\include\stdlib.h
